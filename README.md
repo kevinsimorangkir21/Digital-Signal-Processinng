@@ -24,7 +24,7 @@ In this repository, there are two branches that are sub-subs of this repository,
 
 | Branch | Detail | URL |
 | :---: | :---: |:---:|
-| Class Activity     | This branch contains exercises that are done during class / during the lecturer's teaching | - |
-| Hands On   | This branch contains assignments given by lecturers called Hands On | - |
+| Class Activity     | This branch contains exercises that are done during class / during the lecturer's teaching | https://github.com/kevinsimorangkir21/Digital-Signal-Processinng/tree/Class-Activity |
+| Hands On   | This branch contains assignments given by lecturers called Hands On | https://github.com/kevinsimorangkir21/Digital-Signal-Processinng/tree/Hands-On |
 
 </div>
