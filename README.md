@@ -20,7 +20,6 @@ This course discusses the basic concepts of signals and calculations in finding 
 ## Instruction
 
 In this repository, there are two branches that are sub-subs of this repository, namely `Class Activity` and `Hands On`. The following is an explanation of the two branches in this repository, which can be seen in the following table:
-<div align="left">
 
 | Branch | Detail | URL |
 | :---: | :---: |:---:|
